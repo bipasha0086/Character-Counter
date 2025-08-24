@@ -1,6 +1,19 @@
-# Live Character Counter for Textarea
+# 🚀 Web Development Mini Projects
 
-##  Overview
+##  Author
+**Built with love by Bipasha**
+
+---
+
+## 📌 Overview
+This repository contains **three beginner-friendly JavaScript projects** that demonstrate DOM manipulation, event handling, and interactive UI design.  
+Each project is implemented using **HTML, CSS, and Vanilla JavaScript** with clean styling and real-time interactions.
+
+---# Live Character Counter for Textarea
+
+
+## 1.
+## Overview
 This project is a simple **Live Character Counter** web app built with **HTML, CSS, and JavaScript**.  
 It allows users to type inside a textarea and see the character count update in real-time.  
 
@@ -52,10 +65,10 @@ It allows users to select a category from a dropdown menu and instantly filter p
 ---
 
 ##  Features
-- ✅ Dropdown filter for product categories  
-- ✅ Real-time product filtering using **JavaScript DOM manipulation**  
-- ✅ Gradient background with **blue & purple theme**  
-- ✅ Clean and modern card-style design  
+- 1. Dropdown filter for product categories  
+- 2. Real-time product filtering using **JavaScript DOM manipulation**  
+- 3. Gradient background with **blue & purple theme**  
+- 4. Clean and modern card-style design  
 
 ---
 
@@ -92,6 +105,55 @@ dynamic-product-filter/
 ![Electronics Filter](Screenshot%202025-08-24%20113224.png)
 
 hope you like it !!
+
+# Interactive SVG Drawing Tool with Mouse Event Handlers
+
+##  Overview
+This project is an **Interactive SVG Drawing Tool** where users can draw freely using their mouse.  
+Shapes are drawn inside an SVG canvas, updated in real-time with mouse events.
+
+---
+
+##  Features
+- 1. SVG canvas for interactive drawing  
+- 2. Click & drag to draw freeform lines 
+- 3. Lavender background with a subtle hover effect  
+- 4. Support for multiple drawings 
+
+---
+
+##  Project Structure
+svg-drawing-tool/
+│── practise-2.3.html 
+│── style1.css
+│── script2.js
+
+
+---
+
+##  How It Works
+1. Open the page and hover over the **SVG drawing area**.  
+2. Press and hold the mouse button (`mousedown`) to start drawing.  
+3. Move the mouse (`mousemove`) to extend the line.  
+4. Release the mouse button (`mouseup`) to finish the shape.  
+5. Repeat to draw multiple shapes on the same canvas.  
+
+---
+
+##  Technologies Used
+- **HTML5** – Page setup with SVG container  
+- **CSS3** – Lavender background with hover effect  
+- **JavaScript (Vanilla JS)** – Event handling (`mousedown`, `mousemove`, `mouseup`)  
+
+---
+
+##  Screenshot
+
+### Example Drawing
+![SVG Drawing Tool](Screenshot%202025-08-24%20114033.png)
+hope you like it 
+
+
 
 
 
