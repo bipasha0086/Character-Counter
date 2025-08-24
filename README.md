@@ -82,6 +82,16 @@ dynamic-product-filter/
 ---
 
 ##  Screenshots
+### Default (All Products)
+![All Products](Screenshot%202025-08-24%20113211.png)
+
+### Clothing Filter
+![Clothing Filter](Screenshot%202025-08-24%20113218.png)
+
+### Electronics Filter
+![Electronics Filter](Screenshot%202025-08-24%20113224.png)
+
+hope you like it !!
 
 
 
