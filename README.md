@@ -1,7 +1,7 @@
-# 🚀 Web Development Mini Projects
+#  Web Development Mini Projects
 
 ##  Author
-**Built with love by Bipasha**
+**Built with dedication by Bipasha**
 
 ---
 
