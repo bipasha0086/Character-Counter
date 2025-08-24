@@ -43,4 +43,47 @@ live-character-counter/
 
 hope you like it !!!
 
+# Dynamic Product Filter with Dropdown using JavaScript
+
+##  Overview
+This project is a **Dynamic Product Filtering Tool** built with **HTML, CSS, and JavaScript**.  
+It allows users to select a category from a dropdown menu and instantly filter products on the page without reloading.
+
+---
+
+##  Features
+- ✅ Dropdown filter for product categories  
+- ✅ Real-time product filtering using **JavaScript DOM manipulation**  
+- ✅ Gradient background with **blue & purple theme**  
+- ✅ Clean and modern card-style design  
+
+---
+
+##  Project Structure
+dynamic-product-filter/
+│── practice2.html 
+│── styles.css 
+│── script1.js
+
+---
+
+##  How It Works
+1. Choose a category from the dropdown (`All`, `Clothing`, `Electronics`, `Books`).  
+2. The product list below updates instantly to show only items from that category.  
+3. Selecting `All` will reset and show all products.  
+
+---
+
+##  Technologies Used
+- **HTML5** – Page structure  
+- **CSS3** – Gradient background & styled UI  
+- **JavaScript (Vanilla JS)** – DOM manipulation & event handling  
+
+---
+
+##  Screenshots
+
+
+
+
 
