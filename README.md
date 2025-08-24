@@ -26,7 +26,7 @@ live-character-counter/
 ---
 
 ## How It Works
-1. Open `index.html` in your browser.  
+1. Open `practice2.html` in your browser.  
 2. Start typing in the textarea.  
 3. The counter below will **instantly update** with the number of characters entered.  
 
