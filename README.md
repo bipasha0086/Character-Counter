@@ -143,13 +143,12 @@ svg-drawing-tool/
 ##  Technologies Used
 - **HTML5** – Page setup with SVG container  
 - **CSS3** – Lavender background with hover effect  
-- **JavaScript (Vanilla JS)** – Event handling (`mousedown`, `mousemove`, `mouseup`)  
+- **JavaScript (Vanilla JS)** – Event handling 
 
 ---
 
 ##  Screenshot
 
-### Example Drawing
 ![SVG Drawing Tool](Screenshot%202025-08-24%20114033.png)
 hope you like it 
 
